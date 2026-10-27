@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Lab07_ADONET_Connection/Lab07_ADONET_Connection.csproj" />
+  <Project Path="Lab07.DAL/Lab07.DAL.csproj" />
+</Solution>
